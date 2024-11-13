@@ -1,4 +1,4 @@
-NumPy Tutorial and Examples
+NumPy Tutorial and Examples:
 This repository contains a comprehensive guide to using the NumPy library in Python, covering key features, array manipulations, and mathematical operations for scientific computing. The code examples provided demonstrate the use of NumPy for creating and working with arrays, performing various mathematical and logical operations, and using useful features like broadcasting, indexing, and sorting.
 
 Table of Contents
